@@ -2,7 +2,7 @@
 Coin3D examples using the SoQt GUI
 
 The coin3d-soqt-examples project provides examples for Open Inventor programming using the Coin 3D SDK and SoQt toolkit.
-These examples were tested against older versions of Coin and SoXt and may not be relavent to the current state of the
+These examples were tested against older versions of Coin and SoQt and may not be relavent to the current state of the
 Coin 3D libraries.
 
 A more comprehensive collection of examples may be found at [ivexamples](https://github.com/coin3d/ivexamples), which
