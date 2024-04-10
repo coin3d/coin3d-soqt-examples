@@ -9,6 +9,6 @@ A more comprehensive collection of examples may be found at [ivexamples](https:/
 are kept up to date with the latest Coin and SoQt technology.
 
 ## Magic Lantern Dependencies
-The Coin 3D library can be found on Github in the [mle-coin3d project](https://github.com/coin3d/mle-coin3d)
+The Coin 3D library can be found on Github in the [coin project](https://github.com/magic-lantern-studio/coin)
 
-The Coin SoQt library is also located on Github under the [mle-SoQt project](https://github.com/coin3d/mle-SoQt).
+The Coin SoQt library is also located on Github under the [soqt project](https://github.com/magic-lantern-studio/soqt).
