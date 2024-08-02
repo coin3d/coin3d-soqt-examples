@@ -11,5 +11,5 @@ win32 {
     DEFINES += SOQT_NOT_DLL
 }
 unix {
-    LIBS += -lCoin4 -lSoQt1
+    LIBS += -lCoin -lSoQt
 }
